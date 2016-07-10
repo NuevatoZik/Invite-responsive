@@ -166,16 +166,16 @@ input:focus, textarea:focus{
 .contenedor-guitarra-b{
 	margin-left: 370px;
 	position: relative;
-	bottom: 90px;
+	bottom: 60px;
 }
 .title-b{
 	font-size: 50px;
-	margin-bottom: 20px;	
+	margin-bottom: 10px;	
 }
 .derecha{
 	float: right;
 	position: relative;
-	top: -127px;
+	top: -117px;
 }
 .izquierda{
 	float: left;
